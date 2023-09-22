@@ -10,7 +10,7 @@ to withdraw money,deposit.
 
 ## USE CASE DIAGRAM:
 
-![image](https://github.com/nkishore2210/LAB-1-ATM/assets/118707090/e9618b35-d4a2-4e4c-ad5a-484e64ea6858)
+![Screenshot 2023-09-22 135946](https://github.com/nkishore2210/LAB-1-ATM/assets/118707090/96a14084-721a-468e-89d9-f0c682c12424)
 
 ## SEQUENCE DIAGRAM:
 
