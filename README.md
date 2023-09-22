@@ -28,5 +28,13 @@ to withdraw money,deposit.
 
 ![image](https://github.com/nkishore2210/LAB-1-ATM/assets/118707090/d4bea699-e7b3-41b0-9493-4fa3952c615d)
 
+## COMMUNICATION DIAGRAM:
+
+![image](https://github.com/nkishore2210/LAB-1-ATM/assets/118707090/78c90093-c84c-42b1-96d7-98a713b13173)
+
+## PACKAGE DIAGRAM:
+
+![image](https://github.com/nkishore2210/LAB-1-ATM/assets/118707090/2c755735-4654-4be5-b050-09c11104bd8a)
+
 ### RESULT: 
 Thus the Atm and banking System project was executed and the output was verified.
